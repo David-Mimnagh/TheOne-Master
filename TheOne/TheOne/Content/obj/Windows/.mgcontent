@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/MainGameTitle.spritefont</File>
+    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/background.jpg</File>
+    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/theOne.PNG</File>
+    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/transition.png</File>
+    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/phone.png</File>
+    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/level2.png</File>
+    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/iMessageConvo.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>
