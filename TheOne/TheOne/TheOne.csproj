@@ -41,6 +41,24 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Classes\AnimatedSprite.cs" />
+    <Compile Include="Classes\Level1.cs" />
+    <Compile Include="Classes\Level10.cs" />
+    <Compile Include="Classes\Level11.cs" />
+    <Compile Include="Classes\Level12.cs" />
+    <Compile Include="Classes\Level13.cs" />
+    <Compile Include="Classes\Level14.cs" />
+    <Compile Include="Classes\Level15.cs" />
+    <Compile Include="Classes\Level16.cs" />
+    <Compile Include="Classes\Level17.cs" />
+    <Compile Include="Classes\Level2.cs" />
+    <Compile Include="Classes\Level3.cs" />
+    <Compile Include="Classes\Level4.cs" />
+    <Compile Include="Classes\Level5.cs" />
+    <Compile Include="Classes\Level6.cs" />
+    <Compile Include="Classes\Level7.cs" />
+    <Compile Include="Classes\Level8.cs" />
+    <Compile Include="Classes\Level9.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/phone.png</SourceFile>
-  <SourceTime>2017-09-08T15:26:42.0600861+01:00</SourceTime>
-  <DestFile>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/bin/Windows/phone.xnb</DestFile>
-  <DestTime>2017-09-08T15:26:48.7116029+01:00</DestTime>
+  <SourceFile>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/phone.png</SourceFile>
+  <SourceTime>2017-10-28T20:27:37.69188+01:00</SourceTime>
+  <DestFile>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/bin/Windows/phone.xnb</DestFile>
+  <DestTime>2017-10-28T21:11:34.9611349+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

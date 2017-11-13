@@ -4,12 +4,53 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/MainGameTitle.spritefont</File>
-    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/background.jpg</File>
-    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/theOne.PNG</File>
-    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/transition.png</File>
-    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/phone.png</File>
-    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/level2.png</File>
-    <File>C:/Users/David Mimnagh/Desktop/Folders/Projects/Personal/TheOne/TheOne/Content/iMessageConvo.jpg</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/MainGameTitle.spritefont</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/background.jpg</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/theOne.PNG</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/transition.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/phone.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level2.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/iMessageConvo.jpg</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/StartSprite.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level1Background.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/CalendarBackground.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/CalendarAug.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level3Background.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/leagueChat1.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/leagueChat2.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/leagueChat3.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/leagueChat4.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/leagueChat5.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/SarahWalkRight.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/SarahWalkLeft.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/SarahWalkRight2.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level4.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/SkypeConvo.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/SarahWalkRight3.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level5.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/facebookScroller.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/facebookChat.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/iPhoneChat2.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level6.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/busWheel.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level7.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/bus.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/busWheel2.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level8.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/timeOneSprite.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/timeTwoSprite.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level10.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level11.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level12.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level13.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level14.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level15.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level16.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/level17.png</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/song.mp3</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/lolSoundEffect.wav</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/Sunshine.mp3</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/Keyboard.wav</File>
+    <File>C:/Users/User/Documents/GitHub/TheOne-Master/TheOne/TheOne/Content/BusSound.wav</File>
   </SourceFiles>
 </SourceFileCollection>
